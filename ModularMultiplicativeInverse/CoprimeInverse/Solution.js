@@ -51,5 +51,4 @@ function modInverse(a, m)
     modInverse(a, m);
 }
  
-// This code is contributed by Gautam goel (gautamgoel962)
 </script>
