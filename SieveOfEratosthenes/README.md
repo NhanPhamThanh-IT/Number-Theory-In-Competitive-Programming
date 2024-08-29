@@ -27,7 +27,7 @@ Let us take an example when n = 100. So, we need to print all prime numbers smal
 We create a list of all numbers from 2 to 100.
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105115956/0-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/1.jpg">
 </div>
 
 According to the algorithm we will mark all the numbers which are divisible by 2 and are greater than or equal to the square of it.
