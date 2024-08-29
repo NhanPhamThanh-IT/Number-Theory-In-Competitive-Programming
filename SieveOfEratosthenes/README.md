@@ -33,31 +33,31 @@ We create a list of all numbers from 2 to 100.
 According to the algorithm we will mark all the numbers which are divisible by 2 and are greater than or equal to the square of it.
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105120117/Sieve-of-Eratosthenes-1-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/2.jpg">
 </div>
 
 Now we move to our next unmarked number 3 and mark all the numbers which are multiples of 3 and are greater than or equal to the square of it.
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105120117/Sieve-of-Eratosthenes-1-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/3.jpg">
 </div>
 
 We move to our next unmarked number 5 and mark all multiples of 5 and are greater than or equal to the square of it.
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105120117/Sieve-of-Eratosthenes-1-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/4.jpg">
 </div>
 
 We move to our next unmarked number 7 and mark all multiples of 7 and are greater than or equal to the square of it. 
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105120117/Sieve-of-Eratosthenes-1-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/5.jpg">
 </div>
 
 We continue this process, and our final table will look like below:
 
 <div align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240105120117/Sieve-of-Eratosthenes-1-768.jpg">
+<img src="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/blob/main/SieveOfEratosthenes/Image/6.jpg">
 </div>
 
 __Final result__
