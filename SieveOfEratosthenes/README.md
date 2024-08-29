@@ -70,4 +70,9 @@ __Time Complexity__: O(N*log(log(N)))
 
 __Auxiliary Space__: O(N)
 
+__You may also like to see:__
+
+- <a href=""><b>Segmented Sieve</b></a>
+- <a href=""><b>Sieve of Eratosthenes in O(n) time complexity</b></a>
+
 </div>
