@@ -10,7 +10,7 @@ The fastest way to find the __Greatest Common Divisor (GCD)__ of two numbers is 
 
 It uses recursion to repeatedly replace __a__ with __b__ and __b__ with the remainder of __a__ divided by __b__ until __b__ becomes __zero__, returning a as the __GCD__. This approach is concise and efficient for __GCD__ calculation.
 
-Below is the code snippet for above algorithm: <a href="">Click Here</a>
+Below is the code snippet for above algorithm: <a href="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/tree/main/EuclideanGCD/ComputeGCD">Click Here</a>
 
 ## Problems identification that involve GCD (Greatest Common Divisor)
 
