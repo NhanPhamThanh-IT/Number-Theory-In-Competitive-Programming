@@ -108,4 +108,10 @@ x is 11
 
 **Auxiliary Space**: O(1)
 
+## More References
+
+See below link for an efficient method to find x.
+
+<a href="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/tree/main/ChineseRemainderTheorem/ImprovementImplementation"><strong>Chinese Remainder Theorem - Inverse Modulo Based Implementation</strong></a>
+
 </div>
