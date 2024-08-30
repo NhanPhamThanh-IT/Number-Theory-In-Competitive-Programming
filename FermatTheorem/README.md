@@ -135,4 +135,11 @@ Modular multiplicative inverse is 4
 >
 > **Auxiliary Space**: O(log m) because of the internal recursion stack.
 
+## Applications of Fermat’s Theorem
+
+1. **Compute nCr % p**
+2. **Modular multiplicative inverse**
+3. **Primality Test**
+4. **Modulo $$10^9+7$$ (1000000007)**
+
 </div>
