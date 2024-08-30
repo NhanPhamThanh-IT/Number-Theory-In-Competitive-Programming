@@ -73,6 +73,6 @@ __Auxiliary Space__: O(N)
 __You may also like to see:__
 
 - <a href="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/tree/main/SieveOfEratosthenes/SegmentedSieve"><b>Segmented Sieve</b></a>
-- <a href=""><b>Sieve of Eratosthenes in O(n) time complexity</b></a>
+- <a href="https://github.com/NhanPhamThanh-IT/Number-Theory-In-Competitive-Programming/tree/main/SieveOfEratosthenes/SieveOfEratosthenesImprovement"><b>Sieve of Eratosthenes in O(n) time complexity</b></a>
 
 </div>
